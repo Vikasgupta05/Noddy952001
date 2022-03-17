@@ -5,7 +5,7 @@
 
 I develop softwares for web and build developer communities!
 
-[![Deevanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvanshukumawat&hide=issues&count_private=true&show_icons=true&theme=blue)](https://github.com/dvanshukumawat/github-readme-stats)
+[![Vikas Gupta GitHub Status](https://github-readme-stats.vercel.app/api?username=dvanshukumawat&hide=issues&count_private=true&show_icons=true&theme=blue)](https://github.com/dvanshukumawat/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvanshukumawat&layout=compact&theme=blue)](https://github.com/dvanshukumawat/github-readme-stats)
 
@@ -14,11 +14,9 @@ I develop softwares for web and build developer communities!
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dvanshukumawat" alt="dvanshukumawat" /></a> </p>
 <p align="left"> <a href="https://twitter.com/dvanshukumawat" target="blank"><img src="https://img.shields.io/twitter/follow/dvanshukumawat?logo=twitter&style=for-the-badge" alt="dvanshukumawat" /></a> </p>
 - 🔭 I’m currently working on [Myntra Clone](https://github.com/imbickydutta/myntra)
-- 🌱 I’m currently learning **Next.js**
-- 👨‍💻 All of my projects are available at [deevanshu.dev](deevanshu.dev)
-- 📝 I regularly write articles on [dvanshukumawat.medium.com](dvanshukumawat.medium.com)
+- 🌱 I’m currently learning **React.js**
 - 💬 Ask me about **React, JavaScript, and CSS**
-- 📫 How to reach me **deevanshu1997@gmail.com**
+- 📫 How to reach me **vikasnwrdr2001@gmail.com**
 -->
 <!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
