@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Gupta</h1>
 <h3 align="center">A passionate MERN stack developer </h3>
 
-[![Linkedin: Vikas Gupta (https://img.shields.io/badge/-Deevanshu%20Kumawat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikas-gupta-1493651b5/)](https://www.linkedin.com/in/vikas-gupta-1493651b5/)
-[![Twitter: Vikas Gupta (https://img.shields.io/twitter/follow/Vikasgupta78180?style=social)](https://twitter.com/Vikasgupta78180)
-  
+
 I develop softwares for web and build developer communities!
 
 [![Deevanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dvanshukumawat&hide=issues&count_private=true&show_icons=true&theme=blue)](https://github.com/dvanshukumawat/github-readme-stats)
