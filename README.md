@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTMl,CSS,Javascript,React**
-
 - 📫 How to reach me **vikasnwrdr2001@gmmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ITdsT5x0N2IX_zzwhkKyfxIMk6N87ExJ/view?usp=sharing](https://drive.google.com/file/d/1ITdsT5x0N2IX_zzwhkKyfxIMk6N87ExJ/view?usp=sharing)
