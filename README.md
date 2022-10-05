@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vikas gupta</h1>
 <h3 align="center">A passionate Fullstack Web Developer from India. Determined, with a keen interest to learn more about new technologies and eager to develop skills in the field of creating or developing user friendly products.</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **GraphQL**
 
 - 📫 How to reach me **vikasnwrdr2001@gmmail.com**
 
