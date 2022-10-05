@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 📫 How to reach me **vikasnwrdr2001@gmmail.com**
+- 📫 How to reach me **vikasnwrdr2001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ITdsT5x0N2IX_zzwhkKyfxIMk6N87ExJ/view?usp=sharing](https://drive.google.com/file/d/1ITdsT5x0N2IX_zzwhkKyfxIMk6N87ExJ/view?usp=sharing)
 
